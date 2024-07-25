@@ -1,0 +1,20 @@
+body {
+  min-height: 100vh; /* Para que el body ocupe toda la altura de la ventana */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Estilo para listas */
+ul {
+  list-style-type: none; /* Elimina los bullets */
+}
+  
+/* Estilo para los ítems de lista */
+ul li {
+  margin-bottom: 0.5rem; /* Espacio entre ítems */
+}
+
+/* Margen inferior a cada fila */
+.row {
+  margin-bottom: 1.5rem;
+}
