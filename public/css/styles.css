@@ -1,5 +1,8 @@
 /* General styling */
 body {
+  min-height: 100vh; /* Para que el body ocupe toda la altura de la ventana */
+  display: flex;
+  flex-direction: column;
   font-family: Arial, sans-serif;
 }
 
@@ -10,6 +13,11 @@ body {
 
 .navbar-nav .nav-item .nav-link {
   font-size: 14px;
+  color: white !important;
+}
+
+.navbar-nav .nav-item .dropdown-menu .dropdown-item {
+  color: black !important;
 }
 
 /* Section titles */
@@ -25,19 +33,17 @@ section h2, section h4 {
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
-  width: 50%;
 }
 
 .card:hover {
   transform: translateY(-5px);
 }
 
-
 .card-img-top {
-  width: 50%;
   border-top-left-radius: calc(.25rem - 1px);
   border-top-right-radius: calc(.25rem - 1px);
 }
+
 .card-body {
   padding: 20px;
   text-align: center;
@@ -67,4 +73,11 @@ section h2, section h4 {
 
 .btn-primary:hover {
   background-color: #0056b3;
+}
+
+/* Footer styling */
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 10px 0;
 }
