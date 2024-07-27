@@ -34,4 +34,11 @@ body{
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 10px;
-}
+} 
+/* Footer styling */
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+  }
+  
