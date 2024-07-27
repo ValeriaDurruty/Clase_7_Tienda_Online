@@ -1,5 +1,8 @@
 /* General styling */
 body {
+  min-height: 100vh; /* Para que el body ocupe toda la altura de la ventana */
+  display: flex;
+  flex-direction: column;
   font-family: Arial, sans-serif;
 }
 
