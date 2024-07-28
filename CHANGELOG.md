@@ -12,3 +12,6 @@ Documentación de cambios en el proyecto "Tienda Online"
 
 26/07/2024
 - Se agrega versión final de la página principal.
+
+28/07/2024
+- Se agrega modo alto contraste.
