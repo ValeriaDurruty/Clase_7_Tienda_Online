@@ -15,3 +15,4 @@ Documentación de cambios en el proyecto "Tienda Online"
 
 28/07/2024
 - Se agrega modo alto contraste.
+- Se agrega la categoría "Gorros" con sus respectivos productos.
