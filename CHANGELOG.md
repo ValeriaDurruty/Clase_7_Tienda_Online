@@ -1,4 +1,4 @@
-Documentación de cambios en el proyecto "Tienda Online"
+Documentación de cambios en el proyecto "Tienda Online - SportFusion"
 
 24/07/2024
 - Se inicia el proyecto, se decide la temática de la tienda: "ropa deportiva".
@@ -16,3 +16,11 @@ Documentación de cambios en el proyecto "Tienda Online"
 28/07/2024
 - Se agrega modo alto contraste.
 - Se agrega la categoría "Gorros" con sus respectivos productos.
+
+29/07/2024
+- Se agrega modo alto contraste a la categoría "Gorros" y sus productos.
+- Se agrega precio a productos destacados y promociones.
+
+30/07/2024
+- Se agrega nombre de la tienda al title, navbar y footer.
+- Se agrega linkeo a Bootstrap Icons para el index, productos destacados y promociones.
