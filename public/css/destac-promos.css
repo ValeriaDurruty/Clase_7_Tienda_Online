@@ -41,4 +41,21 @@ body{
     color: white;
     padding: 10px 0;
   }
-  
+  /* styles.css */
+
+/* Precios de Oferta */
+.card-price {
+    font-size: 1.125rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.card-price del {
+    color: #888;
+    margin-right: 0.5rem;
+}
+
+.card-price span {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
