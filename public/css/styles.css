@@ -75,6 +75,19 @@ section h2, section h4 {
   background-color: #0056b3;
 }
 
+/* botón de alto contraste */
+body.high-contrast #contrast-toggle {
+  background-color: #ff0;
+  color: #000;
+  border: 1px solid #000;
+}
+
+body.high-contrast #contrast-toggle:hover {
+  background-color: #000;
+  color: #ff0;
+  border: 1px solid #ff0;
+}
+
 /* Footer styling */
 .footer {
   background-color: #343a40;
